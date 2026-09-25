@@ -1,9 +1,9 @@
 # Grupo 12 - Fundamentos de Python para CCSS y la Gestión Pública
 
-###Profesor:
+### Profesor:
 - Alexander Quispe
 
-###Integrantes:
+### Integrantes:
 - Claudia Andrea Perez Pardo (@Clandra91)
 - Ximena Alejandra Pinillos Zegarra (@ximenapize)
 - Greicy Dana Rodriguez Coronel (@grey-d18)
